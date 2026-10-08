@@ -1,0 +1,5 @@
+{
+  "title" : "Contact Form Input",
+  "description" : "Structured input data for creating a Contact, including Account Name, First Name, Last Name, and Email.",
+  "lightning:type" : "@apexClassType/c__AgentContactForm"
+}
